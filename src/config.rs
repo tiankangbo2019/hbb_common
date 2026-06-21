@@ -117,7 +117,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["redesk.asia"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["47.100.164.197"];
 pub const RS_PUB_KEY: &str = "ISJ7iPUNx3zPTqrzoP2qIVCUcXj0e8RE8HmSz9RYgyo=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
